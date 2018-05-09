@@ -1,1 +1,3 @@
 # blocking-contents
+
+headにあるJavaScriptの処理が遅くなると、bodyのレンダリングがブロックされることを確認します
